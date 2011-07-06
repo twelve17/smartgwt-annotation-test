@@ -6,7 +6,7 @@
   <dependencies>
   	<dependency>
   		<groupId>com.smartclient</groupId>
-  		<artifactId>smartgwt-annotations-support</artifactId>
+  		<artifactId>smartgwt-annotation-support</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   		<type>jar</type>
   		<scope>compile</scope>
